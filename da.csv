@@ -1,14 +1,14 @@
 OBJECTID,NAME,Age - Min,Age - Max,Occupancy rate,Address,latitude,longitude
-1,Muzeul Luvru,0,100,75%-100%,x,48.86034,2.33854
-2,Palatul Tuileries,0,100,50%-75%,"Place de la Concorde, 75001 Paris",48.8583299,2.322332044
-3,Musee d'Orsay,0,100,50%-75%,"62, rue de Lile, 75343 Paris Cedex 07, France",48.8599614,2.3265614
-4,Musee de l'Orangerie,0,100,50%-75%,"Jardin des Tuileries, Palace de la Concorde, 75001, PARIS",48.8637884,2.3226724
+1,Muzeul Luvru,3,100,75%-100%,x,48.86034,2.33854
+2,Palatul Tuileries,4,100,50%-75%,"Place de la Concorde, 75001 Paris",48.8583299,2.322332044
+3,Musee d'Orsay,5,100,50%-75%,"62, rue de Lile, 75343 Paris Cedex 07, France",48.8599614,2.3265614
+4,Musee de l'Orangerie,6,100,50%-75%,"Jardin des Tuileries, Palace de la Concorde, 75001, PARIS",48.8637884,2.3226724
 5,Domul Invalizilor,18,100,75%-100%,"129 Rue de Grenelle, 75007 Paris",48.85299659,2.30749877
-6,Muzeul Armelo,0,100,25%-50%,"129 Rue de Grenelle, 75007 Paris",48.85416325,2.307665436
+6,Muzeul Armelo,7,100,25%-50%,"129 Rue de Grenelle, 75007 Paris",48.85416325,2.307665436
 7,Muzeul Planorelifurilor,0,100,25%-50%,"129 Rue de Grenelle, 75007 Paris",48.85416314,2.3076647
-8,Panteon,0,100,75%-100%,x,48.84099664,2.34083197
-9,Gradinile Luxemburg,0,100,25%-50%,75006 Paris,48.84687,2.33717
-10,Podul Alexandru al III-lea,0,100,50%-75%,"Pont Alexandre III, 75008 Paris",48.8639,2.3136
-11,Grand Palais,0,100,50%-75%,x,48.866161,2.312553
-12,Petit Palais,0,100,0%-25%,"Avenue Winston Churchill, 75008 Paris, France",48.51579,2.185313
-13,Biserica Madeleine,0,100,0%-25%,"Place de la Madeleine, 75008 Paris, France",48.87,2.3246
+8,Panteon,8,100,75%-100%,x,48.84099664,2.34083197
+9,Gradinile Luxemburg,9,100,25%-50%,75006 Paris,48.84687,2.33717
+10,Podul Alexandru al III-lea,10,100,50%-75%,"Pont Alexandre III, 75008 Paris",48.8639,2.3136
+11,Grand Palais,20,100,50%-75%,x,48.866161,2.312553
+12,Petit Palais,30,100,0%-25%,"Avenue Winston Churchill, 75008 Paris, France",48.51579,2.185313
+13,Biserica Madeleine,40,100,0%-25%,"Place de la Madeleine, 75008 Paris, France",48.87,2.3246

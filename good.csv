@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2021-01-08T18:36:41.374Z,48.86034,2.33854,10,5.1,mww,,77,3.821,1.31,us,us6000d6tr,2021-01-08T18:56:49.040Z,"206 km ENE of Neiafu, Tonga",earthquake,9.2,1.9,0.098,10,reviewed,us,us
+2021-01-08T16:49:58.629Z,48.8583299,2.322332044,618.06,5.1,mww,,58,2.286,0.71,us,us6000d6sh,2021-01-08T17:01:37.040Z,"138 km NNE of Labuan Bajo, Indonesia",earthquake,8.2,7,0.08,15,reviewed,us,us
